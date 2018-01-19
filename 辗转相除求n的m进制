@@ -13,6 +13,10 @@ using namespace std;
 
 void transform(int n,int m){
 	stack<int> st;
+	if(n < 0){
+		n = -n;
+		cout << "-";
+	}
 	while(n){
 		st.push(n%m);
 		n /= m;
