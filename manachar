@@ -1,3 +1,5 @@
+// hdoj上3068题AC代码，输入manachar算法模板题
+
 #include<iostream>
 #include<string>
 #include<stdio.h>
