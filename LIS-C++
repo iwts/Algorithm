@@ -20,7 +20,7 @@ int main() {
 			}
 		}
 	}
-	cout << a[N] << endl;
+	cout << dp[N] << endl;
 
 	system("pause");
 	return 0;
