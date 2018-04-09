@@ -20,5 +20,7 @@
 * [图的深度优先搜索](https://github.com/iwts/Algorithm/blob/master/DFS.cpp)
 * [KMP](https://github.com/iwts/Algorithm/blob/master/KMP.cpp)
 * [扩展KMP](https://github.com/iwts/Algorithm/blob/master/EX-KMP.cpp)
+* [最长公共子序列](https://github.com/iwts/Algorithm/blob/master/LCS.cpp)
+* [最长上升子序列](https://github.com/iwts/Algorithm/blob/master/LIS.cpp)
 
 ---------------未完待续---------------
