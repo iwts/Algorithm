@@ -22,5 +22,7 @@
 * [扩展KMP](https://github.com/iwts/Algorithm/blob/master/EX-KMP.cpp)
 * [最长公共子序列](https://github.com/iwts/Algorithm/blob/master/LCS.cpp)
 * [最长上升子序列](https://github.com/iwts/Algorithm/blob/master/LIS.cpp)
+* [N皇后问题-递归求解](https://github.com/iwts/Algorithm/blob/master/N-queens.cpp)
+* [manachar](https://github.com/iwts/Algorithm/blob/master/manachar.cpp)
 
 ---------------未完待续---------------
