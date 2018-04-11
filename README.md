@@ -24,5 +24,6 @@
 * [最长上升子序列](https://github.com/iwts/Algorithm/blob/master/LIS.cpp)
 * [N皇后问题-递归求解](https://github.com/iwts/Algorithm/blob/master/N-queens.cpp)
 * [manachar](https://github.com/iwts/Algorithm/blob/master/manachar.cpp)
+* [埃拉托色尼筛法](https://github.com/iwts/Algorithm/blob/master/eratosthenes.cpp)
 
 ---------------未完待续---------------
