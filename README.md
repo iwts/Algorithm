@@ -25,5 +25,7 @@
 * [N皇后问题-递归求解](https://github.com/iwts/Algorithm/blob/master/N-queens.cpp)
 * [manachar](https://github.com/iwts/Algorithm/blob/master/manachar.cpp)
 * [埃拉托色尼筛法](https://github.com/iwts/Algorithm/blob/master/eratosthenes.cpp)
+* [基于优先队列的BFS](https://github.com/iwts/Algorithm/blob/master/BFS-with-priority_queue.cpp)
+* [朴素的字符串匹配算法](https://github.com/iwts/Algorithm/blob/master/simple-string-matching.cpp)
 
 ---------------未完待续---------------
