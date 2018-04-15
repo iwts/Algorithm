@@ -27,5 +27,6 @@
 * [埃拉托色尼筛法](https://github.com/iwts/Algorithm/blob/master/eratosthenes.cpp)
 * [基于优先队列的BFS](https://github.com/iwts/Algorithm/blob/master/BFS-with-priority_queue.cpp)
 * [朴素的字符串匹配算法](https://github.com/iwts/Algorithm/blob/master/simple-string-matching.cpp)
+* [大区间素数筛法](https://github.com/iwts/Algorithm/blob/master/interval-primes-screening.cpp)
 
 ---------------未完待续---------------
