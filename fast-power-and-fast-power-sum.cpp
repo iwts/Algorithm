@@ -1,5 +1,8 @@
+// 只给出2个函数，形参列表有注释
+
+
 // 快速幂
-int Pow(int a,int b){
+int Pow(int a,int b){ // 即a的b次幂
 	int ans = 1;
 	int base = a;
 	while(b){
@@ -11,7 +14,7 @@ int Pow(int a,int b){
 }
 
 // 快速幂取模
-int pow_mod(int a,int b,int c){
+int pow_mod(int a,int b,int c){  // 即a的b次幂模c
 	int ans = 1;
 	int base = a%c;
 	while(b){
@@ -20,4 +23,11 @@ int pow_mod(int a,int b,int c){
 		b >>= 1;
 	}
 	return ans;
+}
+
+int main(){
+    // empty
+    
+    system("pause");
+    return 0;
 }
