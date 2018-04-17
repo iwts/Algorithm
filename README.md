@@ -28,5 +28,7 @@
 * [基于优先队列的BFS](https://github.com/iwts/Algorithm/blob/master/BFS-with-priority_queue.cpp)
 * [朴素的字符串匹配算法](https://github.com/iwts/Algorithm/blob/master/simple-string-matching.cpp)
 * [大区间素数筛法](https://github.com/iwts/Algorithm/blob/master/interval-primes-screening.cpp)
+* [归并排序](https://github.com/iwts/Algorithm/blob/master/merge-sort.cpp)
+* [快速幂和快速幂取模](https://github.com/iwts/Algorithm/blob/master/fast-power-and-fast-power-sum.cpp)
 
 ---------------未完待续---------------
