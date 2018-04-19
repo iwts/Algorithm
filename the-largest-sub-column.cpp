@@ -11,30 +11,30 @@ source：浙江大学数据结构-陈越
 using namespace std;
 
 int MaxSubSeqSum(int arr[],int n) {
-	int sum, maxsum;
-	sum = maxsum = 0;
-	for (int i = 0; i < n; i++) {
-		sum += arr[i];
-		if (sum > maxsum) {
-			maxsum = sum;
-		}else {
-			if (sum < 0) {
-				sum = 0;
-			}
-		}
-	}
-	return maxsum;
+    int sum, maxsum;
+    sum = maxsum = 0;
+    for (int i = 0; i < n; i++) {
+        sum += arr[i];
+        if (sum > maxsum) {
+            maxsum = sum;
+        }else {
+            if (sum < 0) {
+                sum = 0;
+            }
+        }
+    }
+    return maxsum;
 }
 
 int main() {
-	int k = 0;
-	cin >> k;
-	int *arr = new int[k];
-	for (int i = 0; i < k; i++) {
-		cin >> arr[i];
-	}
-	cout << MaxSubSeqSum(arr, k);
+    int k = 0;
+    cin >> k;
+    int *arr = new int[k];
+    for (int i = 0; i < k; i++) {
+        cin >> arr[i];
+    }
+    cout << MaxSubSeqSum(arr, k);
 	
-	system("pause");
-	return 0;
+    system("pause");
+    return 0;
 }
