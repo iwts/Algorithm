@@ -30,5 +30,6 @@
 * [大区间素数筛法](https://github.com/iwts/Algorithm/blob/master/interval-primes-screening.cpp)
 * [归并排序](https://github.com/iwts/Algorithm/blob/master/merge-sort.cpp)
 * [快速幂和快速幂取模](https://github.com/iwts/Algorithm/blob/master/fast-power-and-fast-power-sum.cpp)
+* [最大子列和](https://github.com/iwts/Algorithm/blob/master/the-largest-sub-column.cpp)
 
 ---------------未完待续---------------
