@@ -32,5 +32,7 @@
 * [快速幂和快速幂取模](https://github.com/iwts/Algorithm/blob/master/fast-power-and-fast-power-sum.cpp)
 * [最大子列和](https://github.com/iwts/Algorithm/blob/master/the-largest-sub-column.cpp)
 * [最大(小)同构字符串](https://github.com/iwts/Algorithm/blob/master/minimal(large)-loop-isomorphism-string.cpp)
+* [求组合数](https://github.com/iwts/Algorithm/blob/master/combination.cpp)
+* [矩阵快速幂及求模](https://github.com/iwts/Algorithm/blob/master/matrix-power-and-mod.cpp)
 
 ---------------未完待续---------------
