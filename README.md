@@ -34,5 +34,6 @@
 * [最大(小)同构字符串](https://github.com/iwts/Algorithm/blob/master/minimal(large)-loop-isomorphism-string.cpp)
 * [求组合数](https://github.com/iwts/Algorithm/blob/master/combination.cpp)
 * [矩阵快速幂及求模](https://github.com/iwts/Algorithm/blob/master/matrix-power-and-mod.cpp)
+* [辗转相除法求N的M进制](https://github.com/iwts/Algorithm/blob/master/N-ary-to-M-ary-by-diversion.cpp)
 
 ---------------未完待续---------------
