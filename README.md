@@ -37,5 +37,6 @@
 * [辗转相除法求N的M进制](https://github.com/iwts/Algorithm/blob/master/N-ary-to-M-ary-by-diversion.cpp)
 * [二分查找](https://github.com/iwts/Algorithm/blob/master/binary-search.cpp)
 * [冒泡排序](https://github.com/iwts/Algorithm/blob/master/bubble_sort.cpp)
+* [N阶汉诺塔递归求解](https://github.com/iwts/Algorithm/blob/master/hanoi.c)
 
 ---------------未完待续---------------
