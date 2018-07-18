@@ -38,5 +38,7 @@
 * [二分查找](https://github.com/iwts/Algorithm/blob/master/binary-search.cpp)
 * [冒泡排序](https://github.com/iwts/Algorithm/blob/master/bubble_sort.cpp)
 * [N阶汉诺塔递归求解](https://github.com/iwts/Algorithm/blob/master/hanoi.c)
+* [dijkstra](https://github.com/iwts/Algorithm/blob/master/dijkstra.cpp)
+* [基于优先队列的dijkstra](https://github.com/iwts/Algorithm/blob/master/dijkstra-for-priority-queue.cpp)
 
 ---------------未完待续---------------
