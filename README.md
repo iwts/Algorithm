@@ -40,6 +40,6 @@
 * [N阶汉诺塔递归求解](https://github.com/iwts/Algorithm/blob/master/hanoi.c)
 * [dijkstra](https://github.com/iwts/Algorithm/blob/master/dijkstra.cpp)
 * [基于优先队列的dijkstra](https://github.com/iwts/Algorithm/blob/master/dijkstra-for-priority-queue.cpp)
-* [RMQ算法](https://github.com/iwts/Algorithm/blob/master/rmq.cpp)
+* [RMQ问题的ST算法解法](https://github.com/iwts/Algorithm/blob/master/rmq.cpp)
 
 ---------------未完待续---------------
