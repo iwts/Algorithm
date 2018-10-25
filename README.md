@@ -42,5 +42,6 @@
 * [基于优先队列的dijkstra](https://github.com/iwts/Algorithm/blob/master/dijkstra-for-priority-queue.cpp)
 * [RMQ问题的ST算法解法](https://github.com/iwts/Algorithm/blob/master/rmq.cpp)
 * [归并排序求逆序数](https://github.com/iwts/Algorithm/blob/master/inverse-number-with-merge-sort.cpp)
+* [kadane算法](https://github.com/iwts/Algorithm/blob/master/kadane.cpp)
 
 ---------------未完待续---------------
