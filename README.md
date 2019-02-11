@@ -44,5 +44,12 @@
 * [归并排序求逆序数](https://github.com/iwts/Algorithm/blob/master/inverse-number-with-merge-sort.cpp)
 * [kadane算法](https://github.com/iwts/Algorithm/blob/master/kadane.cpp)
 * [快速排序](https://github.com/iwts/Algorithm/blob/master/quick-sort.java)
+* [插入排序](https://github.com/iwts/Algorithm/blob/master/insert-sort.java)
+* [二叉树的前序与后序遍历](https://github.com/iwts/Algorithm/blob/master/preorder-traversal-and-post-order-traversal-with-binary-tree.java)
+* [二叉树的三种遍历](https://github.com/iwts/Algorithm/blob/master/tree-traversal.c)
+* [桶排序](https://github.com/iwts/Algorithm/blob/master/bucket-sort.java)
+* [逆波兰表达式](https://github.com/iwts/Algorithm/blob/master/reverse-polish-notation.java)
+* [选择排序](https://github.com/iwts/Algorithm/blob/master/selection-sort.java)
+* [链表归并-练习题](https://github.com/iwts/Algorithm/blob/master/merging-linked-list.c)
 
 ---------------未完待续---------------
