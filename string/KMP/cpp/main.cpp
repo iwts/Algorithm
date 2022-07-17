@@ -1,12 +1,11 @@
 /*
-	Next数组的定义必须是大写N，因为next在std命名空间中已经存在了。
-get_next函数，可以对模板字符串进行操作，从而获得Next数组。kmp函数
-则是进行KMP算法匹配。返回的是第一个匹配字符在数组中的位置。下标从
-0开始。
-    KMP具体算法的学习可以参考july的博客，附网址：
-    http://blog.csdn.net/u011411283/article/details/47444523
+ * Next数组的定义必须是大写N，因为next在std命名空间中已经存在了。
+ * get_next函数，可以对模板字符串进行操作，从而获得Next数组。kmp函数
+ * 则是进行KMP算法匹配。返回的是第一个匹配字符在数组中的位置。下标从
+ * 0开始。
+ * KMP具体算法的学习可以参考july的博客，附网址：
+ * https://blog.csdn.net/u011411283/article/details/47444523
 */
-
 
 #include<iostream>
 #include<string>

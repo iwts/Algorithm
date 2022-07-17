@@ -1,9 +1,10 @@
 /*
-建立在hdoj-2222题的基础上的，该题属于AC自动机的模板题
+ * 建立在hdoj-2222题的基础上的，该题属于AC自动机的模板题
+ * 吐槽一下杭电，突然发现账号要强行绑定手机，还tm要等审批，无法理解
 */
 
 #include<iostream>
-#include<string>
+#include<string.h>
 #include<queue>
 #define MAX_Tot 500005
 
@@ -26,6 +27,7 @@ struct Aho {
         }
         size = 1;
     }
+
     void insert(string s) {
         int n = s.size();
         int now = 0;
@@ -38,6 +40,7 @@ struct Aho {
         }
         AC[now].cnt++;
     }
+
     void build() {
         AC[0].ff = -1;
         que.push(0);
@@ -66,6 +69,7 @@ struct Aho {
             }
         }
     }
+
     int Get(int u) {
         int res = 0;
         while (u) {
@@ -75,6 +79,7 @@ struct Aho {
         }
         return res;
     }
+
     int match(string s) {
         int n = s.size();
         int res = 0, now = 0;
@@ -100,7 +105,6 @@ struct Aho {
         return res;
     }
 }aho;
-
 
 int main() {
     int N, T;

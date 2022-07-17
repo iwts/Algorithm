@@ -1,8 +1,8 @@
-/*
-BFS-广度优先搜索，原理不再赘述。代码实现上：
-1.利用了邻接矩阵来储存一个无向图
-2.BFS没有使用递归，但是使用了一个队列来实现BFS的操作。
-3.仍然需要数组来储存已经访问过的点
+/**
+ * BFS-广度优先搜索，原理不再赘述。代码实现上：
+ * 1.利用了邻接矩阵来储存一个无向图
+ * 2.BFS没有使用递归，但是使用了一个队列来实现BFS的操作
+ * 3.仍然需要数组来储存已经访问过的点
 */
 
 #include <iostream>
@@ -10,22 +10,24 @@ BFS-广度优先搜索，原理不再赘述。代码实现上：
 
 using namespace std;
 
-int traversed[MAX_VERTEX_NUM]; // 存放已经访问过的顶点
+// 存放已经访问过的顶点
+int traversed[MAX_VERTEX_NUM];
 
 // 邻接矩阵
 typedef struct ArcCell {
-	int info; // 无向图，用0、1来表示是否存在边
-}AdjMatrix[MAX_VERTEX_NUM][MAX_VERTEX_NUM];
+	// 无向图，用0、1来表示是否存在边
+	int info;
+} AdjMatrix[MAX_VERTEX_NUM][MAX_VERTEX_NUM];
 
 typedef struct {
 	AdjMatrix arcs;
-}MGroup;
+} MGroup;
 
 // 队列，这里没有使用STL的queue
 typedef struct Queue {
 	int traversed[MAX_VERTEX_NUM + 5];
 	int front;
-}Queue;
+} Queue;
 
 void push(Queue *queue, int vex) {
 	queue->traversed[queue->front] = vex;
@@ -54,8 +56,8 @@ void CreatGroup(MGroup *G) {
 }
 
 /*
-广搜的重点在于队列的应用，为什么使用队列，画一下广搜的过程即可
-明白，这里不再赘述。注意仍然是需要储存已经访问过的顶点的。
+ * 广搜的重点在于队列的应用，为什么使用队列，画一下广搜的过程即可
+ * 明白，这里不再赘述。注意仍然是需要储存已经访问过的顶点的。
 */
 void BFS(MGroup G, Queue *queue) {
 	while (queue->front != 0) {
